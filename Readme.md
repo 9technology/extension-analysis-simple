@@ -2,7 +2,7 @@
 
 A simple Chrome extension that shows the total size for each resource type on your webpage.
 
-Code for the blog post [Building your own Chrome DevTools](http://prev.tech.nine.com.au/2017/11/08/15/31/chrome-dev-tools-part-1)
+Code for the blog post [Building your own Chrome DevTools](http://tech.nine.com.au/2017/11/08/15/31/chrome-dev-tools-part-1)
 
 ![Screenshot](/screenshot.png)
 
